@@ -13,7 +13,7 @@ Explore my GitHub repository for an in-depth look into the pizza sales report. D
 Sales Trends: Analyzing the overall sales trends, peak hours, and seasonal variations. Customer Segmentation: Breaking down customer preferences by demographics for targeted marketing. Location Analysis: Mapping sales data to identify high-performing areas and potential expansion opportunities.
 
 # 🛠️ Tools Used:
-SQL: Efficient data querying and manipulation for detailed analysis. Power BI: Crafting interactive dashboards for intuitive data exploration. 
+Excel: Efficient data manipulation for detailed analysis. Power BI: Crafting interactive dashboards for intuitive data exploration. 
 
 # 📈 How to Explore:
 Each report section folder contains the code, datasets, and documentation for a deep dive into the analysis. Feel free to explore, provide feedback, or collaborate on any aspect of the report.
